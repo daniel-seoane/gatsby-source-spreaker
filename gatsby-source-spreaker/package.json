@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-source-spreaker",
+  "description": "Source plugin for getting a podcast show and its episodes from the Spreaker API",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "spreaker",
+    "podcast"
+  ],
+  "version": "1.0.0",
+  "licence": "MIT",
+  "dependencies": {
+    "axios": "0.20.0",
+    "gatsby-source-filesystem": "^2.3.31"
+  }
+}
